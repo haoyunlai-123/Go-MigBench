@@ -13,6 +13,8 @@ Due to the large size of the dataset and file quantity limitations, **this GitHu
 **🚀 The complete dataset is available for download via Google Drive:**
 
 👉 **[Download Full Go-MigBench Dataset](https://drive.google.com/drive/folders/181RkfcdqPQjel9zGm7EIURO33Fqr7ytO?usp=drive_link)**
+👉 **[Download via Mendeley Data](https://data.mendeley.com/datasets/8hx28b2vs8/1)**
+*(DOI: 10.17632/8hx28b2vs8.1)*
 
 The full dataset includes:
 - **1,235** migration scenarios across **88** libraries.
