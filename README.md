@@ -1,12 +1,3 @@
-这是一个非常专业且符合学术规范的 `README.md` 模板。
-
-它清楚地解释了**“为什么 GitHub 上只有部分文件”**，并显眼地提供了**完整数据集的下载链接**，同时涵盖了项目介绍、统计数据和引用格式。你可以直接复制使用。
-
----
-
-### `README.md` 文件内容
-
-```markdown
 # Go-MigBench
 
 ## Benchmarking Large Language Models for Automated Library Migration in Go Programming
@@ -92,6 +83,3 @@ For any questions regarding the dataset or the paper, please contact:
 
 ---
 *School of Computer Science, Nanjing University of Posts and Telecommunications, China*
-```
-
----
