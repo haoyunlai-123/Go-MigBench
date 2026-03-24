@@ -73,7 +73,5 @@ If you use **Go-MigBench** in your research, please cite our paper:
 ## 📧 Contact
 
 For any questions regarding the dataset or the paper, please contact:
-**Kang Xu** (kxu@njupt.edu.cn)
 
 ---
-*School of Computer Science, Nanjing University of Posts and Telecommunications, China*
