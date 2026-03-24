@@ -69,14 +69,6 @@ go test -v
 
 If you use **Go-MigBench** in your research, please cite our paper:
 
-```bibtex
-@article{xu2025gomigbench,
-  title={Benchmarking Large Language Models for Automated Library Migration in Go Programming},
-  author={Xu, Kang and Rong, Zeyu and Huang, Chenbo and Xu, Haozhi and Ji, Qiu and Chen, Lei and Dong, Zhenjiang},
-  journal={Submitted to Information Fusion},
-  year={2025}
-}
-```
 
 ## 📧 Contact
 
